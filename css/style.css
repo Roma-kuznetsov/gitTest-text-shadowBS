@@ -1,0 +1,24 @@
+.header{
+	padding: 100px 0;
+	background-color: #666;
+}
+section{
+	padding: 100px 0;
+}
+.my__textarea{
+	height: 150px;
+}
+.generator1 h5{
+	padding: 10px;
+	background-color: rgb(93,91,255);
+}
+.generator2{
+	background-color: #eee;
+}
+
+.g2__input__text {
+	width: 50px;
+}
+.test__block {
+	height: 300px;
+}
